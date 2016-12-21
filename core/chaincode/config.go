@@ -23,7 +23,7 @@ import (
 	"strings"
 
 	"github.com/op/go-logging"
-	"github.com/spf13/viper"
+	"github.com/oldas1/viper"
 )
 
 // Config the config wrapper structure
